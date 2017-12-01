@@ -1,0 +1,16 @@
+Int   : Id
+iNt   : Id
+inT   : Id
+INt   : Id
+Float   : Id
+fLoat   : Id
+flOat   : Id
+FLOAT   : Id
+IF   : Id
+If   : Id
+iF   : Id
+if   : Keyword_if
+Then   : Id
+thEn   : Id
+theN   : Id
+THEN   : Id

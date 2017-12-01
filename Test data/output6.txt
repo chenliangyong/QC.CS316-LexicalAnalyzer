@@ -1,0 +1,15 @@
+123e3   : FloatE
+123e-3   : FloatE
+123e+3   : FloatE
+123E3   : FloatE
+123E-3   : FloatE
+123E+3   : FloatE
++123e32   : FloatE
+-123e-32   : FloatE
++123e+3   : FloatE
+-123E3   : FloatE
++123E-3   : FloatE
+-123E+3   : FloatE
+0e1   : FloatE
++0E1   : FloatE
+-0E1   : FloatE

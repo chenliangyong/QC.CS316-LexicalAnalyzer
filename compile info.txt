@@ -1,0 +1,9 @@
+Instructions
+
+1, Unzip all java source files in to the same folder.
+
+2, use "Javac" command to compile all java source files. 
+	>javac *.java
+
+3, use the command: "java LexicalAnalyzer [inputFile] [outputFile]" to run the program.
+
